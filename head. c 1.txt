@@ -1,0 +1,41 @@
+
+
+
+
+
+
+
+<!doctype html>
+<html>
+            <title>table</title>
+      </head>
+      <body style='background-color:powerblue'>
+      <table border='1' style='background-color:orange;colour:blue'>
+      <caption style='color:red;font-size:15px'>
+  column-span</caption>
+          <tr>
+              <th>name</th>
+              <th colspan='2'>phone</th>
+          </th>
+          <tr>
+              <td>bill gates</td>
+              <td>5226846939</td>
+              <td>5226831258</td>
+          </tr>
+    </table>
+    <hr/>
+    <table border='1' style='background-color:silver;color:maroon'>
+    <caption style='color:front-size:15px'>row-span</caption>
+         <tr>
+             <th>name</th>
+             <td>bill gates</td>
+         </tr>
+         <tr>
+             <throwspan='2'>phone</th>
+             <td>5226846939</td>
+         </tr>
+         <tr>
+             <td>5226831258</td>
+         </tr>
+   </body>
+</html>             

@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+           <head><title></head>
+<body id='bi'>
+<form>
+choose your fav color<br/>
+<input type='color' name ='clr' /><br/>
+<input type='button' value='clickme' onsubmit='f1()'/>
+</form>
+<script>
+               function f1(){
+let color=document.getElementById("clr").value
+let body=document.getElementById("b1")

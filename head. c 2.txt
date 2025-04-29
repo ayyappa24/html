@@ -1,0 +1,9 @@
+<!doctype html>
+<html>
+      <head>
+            <title>multimedia</title>
+      </head>
+      <body style='background-color:powerblue'>
+      <audio src='karma.mp3'controls autoplay'>
+    <body>
+</html>

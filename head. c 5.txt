@@ -1,0 +1,16 @@
+<!doctype html>
+<html>
+            <head>
+                         <title>forml</title>
+            </head>
+            <body style='background-color:powerblue'>
+            <form>
+                          specify your vehicles<br/>
+                          <input type='checkbox'name='veh1'value='bike'checked>bike<br/>
+                          <input type='checkbox'name='veh2'value='car'car<br/>
+                          <input type='checkbox'name='veh3'value='boat'>boat<br/>
+                          <input type='checkbox'name='veh4'value='van'>van<br/>
+                          <input type='submit'/>&nbsp;<input type='reset'/>
+           </form>
+           </body>
+</html>
